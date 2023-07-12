@@ -1,5 +1,3 @@
-
-
 Addressbook Tutorial
 ====================
 
